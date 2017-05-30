@@ -1,2 +1,2 @@
 # electros.github.io
-we_electros
+web_electros
